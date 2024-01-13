@@ -1,0 +1,17 @@
+{
+  "title": "Hey Mister",
+  "description": "Deok-soo is living at his wife’s house with her family. Is he going to be their pillar of support now? Kim Deok-soo’s chaotic and dazzling romance begins!",
+  "artist": "manga artist",
+  "author": "manga author",
+  "cover": "https://cdn.discordapp.com/attachments/1179118400795058206/1195681101507743754/heymista.jpg?ex=65b4dfcd&is=65a26acd&hm=7cc3b19ee5718187f6c795a220f294ad51fe8f508f3effbb989e007b7aa3f5d2&",
+  "chapters": {
+    "38": {
+      "title": "Chapter 38",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/bxIhPxH/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
